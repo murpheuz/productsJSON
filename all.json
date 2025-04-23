@@ -1,5 +1,4 @@
-{
-  "variants": [
+[
     {
       "id": 39812226580802,
       "product_id": 6746033717570,
@@ -1400,5 +1399,4 @@
       "admin_graphql_api_id": "gid://shopify/ProductVariant/47904175882562",
       "image_id": 44276234715458
     }
-  ]
 
